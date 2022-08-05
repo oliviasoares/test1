@@ -3,3 +3,4 @@ Hello
 Hi
 
 line added in remote repo
+Hi
